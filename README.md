@@ -28,22 +28,11 @@
   </nav>
 
 
-  <h1>Biography</h1>
-    <div class="Biography">
-        <div class="bio">My name is Jane Capants and I'd like to welcome you to my Portfolio Project. Here on the homepage you'll find some information about myself. My Github username, a link to my Linkedin profile, my email address, and a photo of myself. If you click on 'Repositories' located in the navigation bar you will be redirected to another page which contains the links to my repositories. When you click 'Home' you will return to this page. All of the links will open up a new tab.   </div>
-        <div class="GithubU">Github Username: janecapants</div>
-        <a href="https://www.linkedin.com/in/jane-capants-0b715b144/" target="blank" > 
-            <div>Linkedin</div>
-        </a>
-        <div class="contact">Contact Info: janecapants@gmail.com</div>
+  
 
         <div class="img">
     <img src="IMG_6819.JPG" alt="">
 </div>
 
 
-<script src="./webpage.js">
-<nav>
-<div onclick="linkFn()">click here</div>
-</nav>
 
