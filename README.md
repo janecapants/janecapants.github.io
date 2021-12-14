@@ -1,2 +1,2 @@
 # janecapants.github.io
- <a href="https://github.com/janecapants/Real-Time-Bus-Tracker.git" >Real Time Bus Tracker</a> 
+ <a href="https://janecapants.github.io/Real-Time-Bus-Tracker" >Real Time Bus Tracker</a> 
