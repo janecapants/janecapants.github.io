@@ -1,0 +1,60 @@
+body{
+    background-color: cadetblue;
+}
+
+.navbar{
+    padding: 5;
+    font-family:Bookman, URW Bookman L, serif ;
+    font-weight: bold;
+
+}
+
+p{
+    font-size: 45;
+    font-family: Bookman, URW Bookman L, serif;
+    text-align: left;
+    color: whitesmoke;
+    text-decoration: underline;
+    font-weight: bold;
+    padding: 7px;
+    text-align: center;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: whitesmoke;
+}
+
+
+
+a:hover {
+color: darkgreen;
+}
+
+
+ul{
+    font-size: 30;
+    font-family: Bookman, URW Bookman L, serif;
+    text-align: center;
+color: whitesmoke;
+font-weight: bold;
+
+}
+ 
+ 
+
+li{
+    font-size: 20;
+    font-family: Bookman, URW Bookman L, serif;
+    color: whitesmoke;
+}
+
+.bus{
+    padding: 7px;
+    text-align: center;
+    color: lightyellow;
+    font-family: Bookman, URW Bookman L, serif;
+    font-size: 20;
+}
