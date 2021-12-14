@@ -1,0 +1,89 @@
+body {
+    background-color: cadetblue;
+}
+
+.navbar{
+    padding: 5;
+
+    
+}
+
+li{
+    font-size: 20;
+    font-family: Bookman, URW Bookman L, serif;
+}
+
+ul{
+font-family: Bookman, URW Bookman L, serif;
+color: whitesmoke;
+}
+
+h1{
+    font-family: Bookman, URW Bookman L, serif;
+    font-weight: bold;
+    text-decoration: underline;
+    color: whitesmoke;
+    padding: 5px;
+    
+}
+img{
+    width: 20%;
+border-radius: 8px;
+position: absolute;
+    top: 60px;
+    right: 0;
+    left: 850px;
+}
+
+.Biography {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: minmax(50px, auto);
+    padding: 5px;
+  }
+  .bio{
+    grid-column: 1/ 1;
+    grid-row: 1;
+    font-family: Bookman, URW Bookman L, serif;
+    font-size: 22;
+    color: lightyellow;
+    
+}
+
+.GithubU{
+    grid-column: 1 / 2;
+    grid-row: 3;
+    font-family: Bookman, URW Bookman L, serif;
+    font-size: 18;
+    color: whitesmoke;
+    font-weight: bold;
+    
+}
+
+    
+
+.contact{
+    grid-column: 1 / 4;
+    grid-row: 5;
+    font-family: Bookman, URW Bookman L, serif;
+    font-size: 18;
+    color: whitesmoke;
+    font-weight: bold;
+    
+}
+
+a{
+    grid-column: 1 / 3;
+    grid-row: 4;
+    font-family: Bookman, URW Bookman L, serif;
+    font-size: 18;
+    color: lightyellow;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+
+a:hover{
+    color: darkgreen;
+}
+
