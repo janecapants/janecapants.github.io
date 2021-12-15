@@ -40,6 +40,8 @@ ul{
     text-align: center;
 color: whitesmoke;
 font-weight: bold;
+    padding: 20;
+    text-decoration: underline;
 
 }
  
@@ -57,4 +59,5 @@ li{
     color: lightyellow;
     font-family: Bookman, URW Bookman L, serif;
     font-size: 20;
+    font-weight: bold;
 }
